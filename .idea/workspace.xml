@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6593d43d-3fc0-4347-a31e-8e438af47932" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_box.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_features.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_mini-posts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_mini-posts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_posts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_posts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/ie8.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/ie8.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/ie9.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/ie9.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_menu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/assets/js/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="120">
+              <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -140,6 +114,8 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -178,6 +154,11 @@
             <path>
               <item name="nikmalik" type="b2602c69:ProjectViewProjectNode" />
               <item name="nikmalik" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nikmalik" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nikmalik" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -236,12 +217,12 @@
       <workItem from="1520471531825" duration="30000" />
       <workItem from="1522637582333" duration="3273000" />
       <workItem from="1524004220893" duration="13050000" />
-      <workItem from="1524705477737" duration="693000" />
+      <workItem from="1524705477737" duration="1002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34080000" />
+    <option name="totallyTimeSpent" value="34389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1304" y="23" width="1256" height="1351" extended-state="0" />
@@ -254,7 +235,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968051" weight="0.32994527" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17197452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17197452" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -389,16 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -547,17 +518,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
         </state>
       </provider>
     </entry>
