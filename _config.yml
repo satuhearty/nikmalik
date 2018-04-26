@@ -3,8 +3,8 @@ title: Nik M
 subtitle: by satuhearty
 email: nikm@babynik.com
 description: My Journey To The World
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/nikmalik" # the subpath of your site, e.g. /blog
+url: "https://satuhearty.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Boston
