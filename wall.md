@@ -1,7 +1,7 @@
 ---
 layout: wall
 type: wall
-title: Baby Wall
+title: My Baby Wall
 ---
 
 <div id="timeline"></div>

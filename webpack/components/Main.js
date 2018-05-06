@@ -111,7 +111,7 @@ class Main extends Component {
         }
         <Modal open={this.state.open} onClose={this.onCloseModal}>
           <div style={{ textAlign: 'center', padding: '25px 15px' }}>
-            <h2>Baby Wish</h2>
+            <h2>Baby Post</h2>
             <p>
               Send your warmest love to me, the newborn baby and my family! Your messages will be shown shortly.
             </p>

@@ -12,7 +12,8 @@ title: My Baby Registry
         of them have been purchased by someone (thanks!), some haven't. If you decide to buy for me an item on the list 
         as a gift, it will be shipped directly to my parent's apartment. My family will know who bought it (so we can 
         thank you). Baby Registry is part of the culture in the United States when babies like me are born. It's an 
-        interesting way to avoid duplicate gifts, which might end up not being used.
+        interesting way to avoid duplicate gifts, which might end up not being used.<br />
+        Don't forget to leave a post on <a href="{{ site.url }}/wall">my baby wall.</a>
       </p>
     </div>
   </div>

@@ -65,7 +65,7 @@ layout: default
         Preparation before <i>"Hello World!"</i>
       </p>
       <ul class="actions">
-        <li><a href="{{ site.url }}/blog/mri-study" class="button">Read More</a></li>
+        <li><a href="{{ site.url }}/blog/baby-prep" class="button">Read More</a></li>
       </ul>
     </article>
 	</div>
