@@ -3,23 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6593d43d-3fc0-4347-a31e-8e438af47932" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-07-transposition-of-the-great-arteries.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-07-transposition-of-the-great-arteries.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-27-mri-study.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-27-mri-study.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-17-baby-prep.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-17-baby-prep.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/baby-prep.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/baby-prep.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/mri-study.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/mri-study.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/transposition-of-the-great-arteries.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/transposition-of-the-great-arteries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/wall.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registry.md" beforeDir="false" afterPath="$PROJECT_DIR$/registry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wall.md" beforeDir="false" afterPath="$PROJECT_DIR$/wall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/wall.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/wall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/wall.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/components/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/components/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/components/Posts.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/assets/js/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -60,9 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>_pa</find>
-      <find>color:</find>
-      <find>loading: false</find>
       <find>user</find>
       <find>loading</find>
       <find>permal</find>
@@ -90,6 +74,9 @@
       <find>affe</find>
       <find>arterial</find>
       <find>assets</find>
+      <find>4px solid</find>
+      <find>count</find>
+      <find>6</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/_posts</dir>
@@ -105,7 +92,6 @@
         <option value="$PROJECT_DIR$/.eslintrc.json" />
         <option value="$PROJECT_DIR$/_sass/components/_card.scss" />
         <option value="$PROJECT_DIR$/webpack/components/Card.js" />
-        <option value="$PROJECT_DIR$/webpack/components/Posts.js" />
         <option value="$PROJECT_DIR$/_sass/libs/_vars.scss" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/wall.html" />
@@ -135,7 +121,6 @@
         <option value="$PROJECT_DIR$/_sass/ie8.scss" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/webpack/components/Main.js" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
@@ -147,6 +132,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-03-27-mri-study.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-17-baby-prep.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/webpack/components/Main.js" />
+        <option value="$PROJECT_DIR$/webpack/components/Posts.js" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
@@ -250,12 +237,12 @@
       <workItem from="1524004220893" duration="13050000" />
       <workItem from="1524705477737" duration="2818000" />
       <workItem from="1524782936628" duration="1297000" />
-      <workItem from="1525571272684" duration="5258000" />
+      <workItem from="1525571272684" duration="5679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42760000" />
+    <option name="totallyTimeSpent" value="43181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1304" y="23" width="1256" height="1351" extended-state="0" />
@@ -271,6 +258,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17197452" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -280,7 +268,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32994527" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/components/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/wall.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -521,10 +501,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/components/Posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="122" column="33" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>

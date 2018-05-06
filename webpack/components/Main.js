@@ -101,7 +101,7 @@ class Main extends Component {
             transitionDelay: '0s'
           }}
         >
-          <span><i className="fa fa-chevron-up" aria-hidden="true" style={{ fontSize: '1.5em', color: '#f54241', border: '4px solid #f54241', borderRadius: '50%', padding: '10px' }} /></span>
+          <span><i className="fa fa-chevron-up" aria-hidden="true" style={{ fontSize: '1.5em', color: '#111111', border: '4px solid #111111', borderRadius: '50%', padding: '10px' }} /></span>
         </ScrollToTop>
         {this.state.count > 0 &&
           <Posts
