@@ -5,7 +5,7 @@ email: nikm@babynikm.com
 description: My Journey To The World
 keyword: baby blog, nik, transposition of the great arteries, tga, baby registry, baby wall.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://satuhearty.github.io/nikmalik" # the base hostname & protocol for your site
+url: "http://babynikm.com" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Boston
