@@ -2,6 +2,8 @@
 layout: page
 title: Transposition of The Great Arteries
 permalink: blog/:title
+subtitle: Transposition of The Great Arteries
+description: The day I found out that I had Transposition of The Great Arteries (TGA).
 ---
 
 <section>

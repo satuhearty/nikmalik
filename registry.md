@@ -1,6 +1,8 @@
 ---
 layout: registry
 title: My Baby Registry
+subtitle: My Baby Registry
+description: My Baby Registry
 ---
 
 <section>

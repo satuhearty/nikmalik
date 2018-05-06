@@ -1,7 +1,19 @@
 <head>
-  <title>Nik Malik | My Journey To The World</title>
+  <title>{{ site.title }} | {{ page.subtitle }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="description" content="{{ page.description }}">
+  <meta name="keyword" content="{{ site.keyword }}">
+  <meta name="author" content="satuhearty">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-96x96.png" sizes="96x96">
+  <meta property="og:title" content="{{ site.title }} | {{ page.subtitle }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/images/favicon/favicon-192x192.png" />
+  <meta property="og:description" content="{{ page.description }}" />
+
   <!--[if lte IE 8]><script src="{{ site.url }}}/assets/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ site.url }}/assets/css/ie9.css" /><![endif]-->

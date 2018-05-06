@@ -1,5 +1,7 @@
 ---
 layout: default
+subtitle: My Journey To The World
+description: My Journey To The World
 ---
 
 <section style="padding: 4em 0;">

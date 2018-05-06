@@ -1,8 +1,9 @@
 # Site settings
 title: Nik ⓜ
 subtitle: by satuhearty
-email: nikm@babynik.com
+email: nikm@babynikm.com
 description: My Journey To The World
+keyword: baby blog, nik, transposition of the great arteries, tga, baby registry, baby wall.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satuhearty.github.io/nikmalik" # the base hostname & protocol for your site
 author:
