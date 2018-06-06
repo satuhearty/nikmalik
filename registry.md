@@ -28,7 +28,7 @@ description: My Baby Registry
       </a>
     </div>
     <div class="4u 12u$(medium)">
-      <a href="https://www.target.com/gift-registry/registry/fcf0f76de4f240ebb04b401229d26aff" target="_blank">
+      <a href="http://tgt.gifts/fcf0f76de4f240ebb04b401229d26aff" target="_blank">
         <span class="image fit">
           <img src="{{ "/assets/images/registry/target.png" | absolute_url }}" alt="Target" />
         </span>
