@@ -21,7 +21,7 @@ description: My Baby Registry
   </div>
   <div class="row">
     <div class="4u 12u$(medium)">
-      <a href="https://www.wayfair.com/registry/wedding/NikAndMaisarah" target="_blank">
+      <a href="https://www.wayfair.com/registry/wedding/mukmeenandmaisarah" target="_blank">
         <span class="image fit" style="padding-top: 5em;">
           <img src="{{ "/assets/images/registry/wayfair.svg" | absolute_url }}" alt="Wayfair" />
         </span>
