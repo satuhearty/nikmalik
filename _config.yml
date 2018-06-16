@@ -1,11 +1,11 @@
 # Site settings
-title: Nik ⓜ
+title: Nik Malik
 subtitle: by satuhearty
-email: nikm@babynikm.com
+email: contact@nikmalik.com
 description: My Journey To The World
 keyword: baby blog, nik, transposition of the great arteries, tga, baby registry, baby wall.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://babynikm.com" # the base hostname & protocol for your site
+url: "http://nikmalik.com" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Boston
